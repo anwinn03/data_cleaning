@@ -5,7 +5,11 @@ Purpose of this code is to clean BLS data. Important parameters are OCODE (Occup
 <br />Very efficient when you have multiple .JSON files to clean.<br />
 
 ## REQUIRED LIBRARIES
-!pip install json
-!pip install pandas
-!pip install re
-!pip install glob
+!pip install json<br />
+<br />!pip install pandas<br />
+<br />!pip install re<br />
+<br />!pip install glob<br />
+
+> [!REMEMBER]
+This program takes in files specific to the example.<br />
+<br />Sample files are given<br />
