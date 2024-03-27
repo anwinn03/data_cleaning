@@ -10,6 +10,6 @@ Purpose of this code is to clean BLS data. Important parameters are OCODE (Occup
 <br />!pip install re<br />
 <br />!pip install glob<br />
 
-> [!REMEMBER]
+> [!WARNING]
 This program takes in files specific to the example.<br />
 <br />Sample files are given<br />
